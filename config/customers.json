@@ -1,0 +1,14 @@
+{
+    "customers": {
+        "SomeCompany": {
+            "fullName": "Some Company Inc",
+            "address": {
+                "streetAddress": "ul. Tadeusza Kościuszki 82",
+                "state": "Wielkopolska",
+                "zipCode": "61-890",
+                "city": "Poznań",
+                "country": "Polska"
+            }
+        }
+    }
+}

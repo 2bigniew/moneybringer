@@ -1,0 +1,40 @@
+{
+  "payment": {
+    "method": "transfer",
+    "periodInDays": 30
+  },
+  "personalDetails": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe.priv@gmail.com",
+    "phome": "222222222"
+  },
+  "companyDetails": {
+    "fullName": "John Doe Inc.",
+    "address": {
+      "street": "ul. Tadeusza Kościuszki",
+      "number": "77",
+      "zipCode": "61-890",
+      "city": "Poznań"
+    },
+    "taxNumber": "PL2222222222",
+    "email": "john.doe.inc@gmail.com",
+    "phome": "222222222",
+    "IBAN": "PL 22 2222 2222 2222 2222 2222 2222",
+    "SWIFT": "INGBPLPW"
+  },
+  "invoicePosition": {
+    "defaultProduct": "Consulting service",
+    "defaultUnit": "pcs.",
+    "defaultNetPrice": 50,
+    "defaultTaxRate": 23,
+    "polishClassificationOfGoodsAndServices": "74.10.Z",
+    "defaultCurrency": "PLN"
+  },
+  "invoiceDetails": {
+    "defaultNotes": [],
+    "defaultServiceStartDay": 10,
+    "defaultServiceEndDay": 9,
+    "defaultPlaceOfIssue": "Poznań"
+  }
+}
